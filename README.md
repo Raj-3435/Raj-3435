@@ -1,4 +1,3 @@
-# Namaste! 👋 I'm Aditya Raj
 
 ## 🚀 About Me
 I'm a **Computer Science student** passionate about **Data Science, Machine Learning, and Research**. Currently, I'm working on a **Machine Learning project** and exploring **AI advancements** to solve real-world problems.
