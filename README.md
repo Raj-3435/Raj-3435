@@ -1,7 +1,6 @@
-
-# Hi there! 
-
-![GitHub Banner](https://raw.githubusercontent.com/Raj-3435/Raj-3435/main/github-header-image.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raj-3435/Raj-3435/main/github-header-image.png" width="100%" />
+</p>
 
 ## 🚀 About Me
 Hey there! I'm a **Computer Science student** who loves diving into the world of **Data Science, Machine Learning, and Research**. Right now, I'm on an exciting journey working on a **Machine Learning project** while exploring the latest **AI advancements** to tackle real-world challenges. Let's build something amazing together! 🚀
