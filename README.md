@@ -20,13 +20,13 @@ Hey there! I'm a **Computer Science student** who loves diving into the world of
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj-3435&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-3435&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raj-3435&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=2" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-3435&theme=radical&count_private=true&v=2" width="48%"/>
 </p>
 
 ## 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-3435&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-3435&layout=compact&theme=radical&v=2" width="48%"/>
 </p>
 
 ## 🤝 Want to Collaborate?
@@ -41,13 +41,10 @@ Wanna chat or collaborate? Find me here:
 <p align="center">
   <a href="https://github.com/Raj-3435"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aditya-raj35"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="adityarajic1101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:adityarajic1101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 
 ## ⚡ Fun Fact
 Did you know? **Some of the best open-source projects started as small experiments. Maybe the next big thing is hidden in one of my repositories! Take a look and let's innovate together!** 🚀
 
 ---
-
-
